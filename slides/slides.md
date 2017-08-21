@@ -22,7 +22,7 @@ not one of them is missing.
 [Isaiah 40:26 (NIV) (p.1/5)](# "ref") 
 
 ---
-[27](# "ref")  
+[27](# "ref")
 Why do you **complain**, Jacob? <br/>
 Why do you say, Israel,
 
@@ -70,6 +70,6 @@ they will **walk** and not be faint.
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
 ## WAIT [(Is40:26-31)](# "ref")
 1. **Stars** [(v26)](# "ref")
-1. **Hidden**  [(v27-28)](# "ref")
-1. **Weary** [(v29)](# "ref")
+1. **Hidden**  [(v27)](# "ref")
+1. **Strength** [(v28-29)](# "ref")
 1. **Soar**  [(v30-31)](# "ref")
