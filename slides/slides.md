@@ -3,7 +3,7 @@
 ## Isaiah 40:26-31
 
 ---
-26 
+[26](# "ref") 
 Lift up your eyes and look to the **heavens**: <br/>
 Who **created** all these?
 
@@ -13,16 +13,20 @@ and **calls forth** each of them by name.
 Because of his great **power** and mighty strength,  <br/>
 not one of them is missing. 
 
+[Isaiah 40:26 (NIV) (p.1/5)](# "ref") 
+
 ---
-27 
+[27](# "ref")  
 Why do you **complain**, Jacob? <br/>
 Why do you say, Israel,
 
 “My way is **hidden** from the Lord; <br/>
 my cause is **disregarded** by my God”? 
 
+[Isaiah 40:27 (NIV) (p.1/5)](# "ref") 
+
 ---
-28 
+[28](# "ref") 
 Do you not know? <br/>
 Have you not heard? 
 
@@ -32,20 +36,26 @@ the **Creator** of the ends of the earth.
 He will not grow **tired** or weary,  <br/>
 and his **understanding** no one can fathom. 
 
+[Isaiah 40:28 (NIV) (p.1/5)](# "ref") 
+
 ---
-29 
+[29](# "ref") 
 He gives **strength** to the weary  <br/>
 and increases the **power** of the weak.
 
-30 
+[30](# "ref") 
 Even **youths** grow tired and weary, <br/>
 and young men **stumble** and fall; 
 
+[Isaiah 40:29-30 (NIV) (p.1/5)](# "ref") 
+
 ---
-31 
+[31](# "ref") 
 but those who **hope** in the Lord <br/>
 will **renew** their strength. 
 
 They will **soar** on wings like eagles;  <br/>
 they will **run** and not grow weary, <br/>
 they will **walk** and not be faint. 
+
+[Isaiah 40:31 (NIV) (p.1/5)](# "ref") 
