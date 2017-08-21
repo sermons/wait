@@ -73,3 +73,31 @@ they will **walk** and not be faint.
 1. **Hidden**  [(v27)](# "ref")
 1. **Strength** [(v28-29)](# "ref")
 1. **Soar**  [(v30-31)](# "ref")
+
+---
+<!-- .slide: data-background="white" -->
+# Q1
+
+---
+## outline 2
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
+## outline 3
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
+
+---
+## outline 4
+
+---
+<!-- .slide: data-background="white" -->
+# Q4
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
