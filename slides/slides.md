@@ -3,6 +3,12 @@
 ## Isaiah 40:26-31
 
 ---
+<!-- .slide: data-background="white" -->
+# Opening **Question**
+
+[###](#/outline "secret")
+
+---
 [26](# "ref") 
 Lift up your eyes and look to the **heavens**: <br/>
 Who **created** all these?
@@ -59,3 +65,11 @@ they will **run** and not grow weary, <br/>
 they will **walk** and not be faint. 
 
 [Isaiah 40:31 (NIV) (p.1/5)](# "ref") 
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+## WAIT [(Is40:26-31)](# "ref")
+1. **Stars** [(v26)](# "ref")
+1. **Hidden**  [(v27-28)](# "ref")
+1. **Weary** [(v29)](# "ref")
+1. **Soar**  [(v30-31)](# "ref")
