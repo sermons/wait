@@ -76,7 +76,12 @@ they will **walk** and not be faint.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# What does **astronomy** teach me about God? 
+
+>>>
++ science, created world
++ **power** + strength
++ personal **care**: by name, none missing
 
 ---
 ## outline 2
