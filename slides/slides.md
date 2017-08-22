@@ -178,7 +178,15 @@ and **for** him are all things.
 Even **youths** grow tired and weary, <br/>
 and young men **stumble** and fall;
 
-[31](# "ref")
+[Isaiah 40:30 (NIV)](# "ref")
+
+>>>
++ trusting in own strength
++ youth is fleeting ("invincible")
++ **stumble**: unexpected tragedy
+  + e.g., mugged in Chinatown
+
+---
 but those who **hope** in the Lord <br/>
 will **renew** their strength.
 
@@ -186,11 +194,40 @@ They will **soar** on wings like eagles;  <br/>
 they will **run** and not grow weary, <br/>
 they will **walk** and not be faint.
 
-[Isaiah 40:30-31 (NIV)](# "ref")
+[Isaiah 40:31 (NIV)](# "ref")
+
+>>>
++ soar, not **flap**
++ boast in own **weakness**
+  + that God's **power** may be known
+
+---
+But God chose the **foolish** things <br/>
+of the world to shame the **wise**;
+
+God chose the **weak** things <br/>
+of the world to shame the **strong** [...],
+
+[29](# "ref")
+so that **no one** may **boast** before him.
+
+[1 Corinthians 1:27,29 (NIV)](# "ref")
+
+---
+He said to me, “My **grace** is sufficient for you, <br/>
+for my **power** is made perfect in **weakness**.”
+
+Therefore I will **boast** all the more gladly <br/>
+about my **weaknesses**,
+
+so that **Christ’s power** may rest on me.
+
+[2 Corinthians 12:9 (NIV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
-# Q4
+# Do I **flap** in my own strength
+# or **soar** in God's grace?
 
 ---
 <!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> class="empty" -->
