@@ -1,10 +1,10 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
 # WAIT
 ## Isaiah 40:26-31
 
 ---
 <!-- .slide: data-background="white" -->
-# How do I deal with **waiting**? 
+# How do I deal with **waiting**?
 
 [###](#/outline "secret")
 
@@ -67,7 +67,7 @@ they will **walk** and not be faint.
 [Isaiah 40:31 (NIV) (p.1/5)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> id="outline" -->
 ## WAIT [(Is40:26-31)](# "ref")
 1. **Eyes** [(v26)](# "ref")
 1. **Heart**  [(v27)](# "ref")
@@ -91,7 +91,7 @@ Ps19 (devo)
 
 ---
 <!-- .slide: data-background="white" -->
-# What do the **stars** teach me about God? 
+# What do the **stars** teach me about God?
 
 >>>
 + science, created world
@@ -99,7 +99,12 @@ Ps19 (devo)
 + personal **care**: by name, none missing
 
 ---
-## outline 2
+<!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
+## WAIT [(Is40:26-31)](# "ref")
+1. Eyes [(v26)](# "ref")
+1. **Heart**  [(v27)](# "ref")
+1. Mind [(v28-29)](# "ref")
+1. Wings  [(v30-31)](# "ref")
 
 ---
 Why do you **complain**, Jacob? <br/>
@@ -112,7 +117,7 @@ my cause is **disregarded** by my God”?
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I ever felt **ignored** by God? 
+# Have I ever felt **ignored** by God?
 
 ---
 Do you not know?  Have you not heard?
@@ -130,15 +135,26 @@ and increases the **power** of the weak.
 [Isaiah 40:28-29 (NIV)](# "ref")
 
 ---
-## outline 3
+<!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
+## WAIT [(Is40:26-31)](# "ref")
+1. Eyes [(v26)](# "ref")
+1. Heart  [(v27)](# "ref")
+1. **Mind** [(v28-29)](# "ref")
+1. Wings  [(v30-31)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
 # Q3
 
 ---
-## outline 4
+<!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
+## WAIT [(Is40:26-31)](# "ref")
+1. Eyes [(v26)](# "ref")
+1. Heart  [(v27)](# "ref")
+1. Mind [(v28-29)](# "ref")
+1. **Wings**  [(v30-31)](# "ref")
 
+---
 Even **youths** grow tired and weary, <br/>
 and young men **stumble** and fall;
 
@@ -157,4 +173,4 @@ they will **walk** and not be faint.
 # Q4
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> class="empty" -->
