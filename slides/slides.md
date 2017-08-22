@@ -164,7 +164,7 @@ and **for** him are all things.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Have I **questioned** God's judgment?
 
 ---
 <!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
