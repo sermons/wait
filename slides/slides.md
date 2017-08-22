@@ -69,10 +69,10 @@ they will **walk** and not be faint.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
 ## WAIT [(Is40:26-31)](# "ref")
-1. **Stars** [(v26)](# "ref")
-1. **Hidden**  [(v27)](# "ref")
-1. **Strength** [(v28-29)](# "ref")
-1. **Soar**  [(v30-31)](# "ref")
+1. **Eyes** [(v26)](# "ref")
+1. **Heart**  [(v27)](# "ref")
+1. **Mind** [(v28-29)](# "ref")
+1. **Wings**  [(v30-31)](# "ref")
 
 ---
 Lift up your eyes and look to the **heavens**: <br/>
