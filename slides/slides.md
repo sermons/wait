@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# How do I deal with **waiting**? 
 
 [###](#/outline "secret")
 
