@@ -120,11 +120,22 @@ my cause is **disregarded** by my God”?
 # Have I ever felt **ignored** by God?
 
 ---
+<!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
+## WAIT [(Is40:26-31)](# "ref")
+1. Eyes [(v26)](# "ref")
+1. Heart  [(v27)](# "ref")
+1. **Mind** [(v28-29)](# "ref")
+1. Wings  [(v30-31)](# "ref")
+
+---
 Do you not know?  Have you not heard?
 
 The Lord is the **everlasting** God, <br/>
 the **Creator** of the ends of the earth.
 
+[Isaiah 40:28 (NIV)](# "ref")
+
+---
 He will not grow **tired** or weary,  <br/>
 and his **understanding** no one can fathom.
 
@@ -135,12 +146,21 @@ and increases the **power** of the weak.
 [Isaiah 40:28-29 (NIV)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
-## WAIT [(Is40:26-31)](# "ref")
-1. Eyes [(v26)](# "ref")
-1. Heart  [(v27)](# "ref")
-1. **Mind** [(v28-29)](# "ref")
-1. Wings  [(v30-31)](# "ref")
+Oh, the depth of the **riches** <br/>
+of the **wisdom** and knowledge of God!
+
+How **unsearchable** his judgments, <br/>
+and his paths beyond **tracing** out!
+
+[34](# "ref")
+“Who has known the **mind** of the Lord? <br/>
+Or who has been his **counselor**?”
+
+[36](# "ref")
+For **from** him and **through** him <br/>
+and **for** him are all things.
+
+[Romans 11:33-34,36 (NIV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
