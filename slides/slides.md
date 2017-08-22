@@ -86,9 +86,12 @@ not one of them is missing.
 
 [Isaiah 40:26 (NIV)](# "ref")
 
+>>>
+Ps19 (devo)
+
 ---
 <!-- .slide: data-background="white" -->
-# What does **astronomy** teach me about God? 
+# What do the **stars** teach me about God? 
 
 >>>
 + science, created world
@@ -109,7 +112,7 @@ my cause is **disregarded** by my God”?
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# Have I ever felt **ignored** by God? 
 
 ---
 Do you not know?  Have you not heard?
