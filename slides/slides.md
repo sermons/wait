@@ -75,6 +75,7 @@ they will **walk** and not be faint.
 1. **Wings**  [(v30-31)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 Lift up your **eyes** and look to the **heavens**: <br/>
 Who **created** all these?
 
@@ -87,6 +88,7 @@ Who **created** all these?
 + Ps19 (devo):
 
 ---
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
 The **heavens** declare the **glory** of God; <br/>
 the **skies** proclaim the **work** of His hands.
 
@@ -96,6 +98,7 @@ the **skies** proclaim the **work** of His hands.
 + **speech** of the skies
 
 ---
+<!-- .slide: <%= bg("eso9845d-spiral_galaxy_NGC1232.jpg") %> -->
 He who brings out the **starry host** one by one <br/>
 and **calls forth** each of them by name.
 
@@ -127,6 +130,7 @@ not one of them is **missing**.
 1. Wings  [(v30-31)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
 Why do you **complain**, Jacob? <br/>
 Why do you say, Israel,
 
@@ -157,6 +161,7 @@ my cause is **disregarded** by my God”?
 1. Wings  [(v30-31)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-NuE8Nu3otjo-aurora.jpg") %> -->
 Do you not know?  Have you not heard?
 
 The Lord is the **everlasting** God, <br/>
@@ -169,6 +174,7 @@ the **Creator** of the ends of the earth.
 + not because He is too **weak**:
 
 ---
+<!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
 Surely the **arm** of the LORD <br/>
 is not too **short** to save, <br/>
 nor His **ear** too **dull** to hear.
@@ -188,6 +194,7 @@ His face from you.
 + God has abundant **strength** to give:
 
 ---
+<!-- .slide: <%= bg("stocksnap-36K89610LZ-cross_mtn_lake.jpg") %> -->
 He will not grow **tired** or weary,  <br/>
 and his **understanding** no one can fathom.
 
@@ -204,6 +211,7 @@ and increases the **power** of the weak.
   + but is **wiser** than world's wisdom
 
 ---
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 Oh, the depth of the **riches** <br/>
 of the **wisdom** and knowledge of God!
 
@@ -254,6 +262,7 @@ and young men **stumble** and fall;
   + e.g., mugged in Chinatown
 
 ---
+<!-- .slide: <%= bg("unsplash-OjE4RtaibFc-eagle.jpg") %> -->
 but those who **hope** in the Lord <br/>
 will **renew** their strength.
 
@@ -269,6 +278,7 @@ they will **walk** and not be faint.
   + that God's **power** may be known
 
 ---
+<!-- .slide: <%= bg("unsplash-b8rkmfxZjdU-kids.jpg") %> -->
 But God chose the **foolish** things <br/>
 of the world to shame the **wise**;
 
@@ -285,6 +295,7 @@ so that **no one** may **boast** before him.
 + e.g., software co: honest vs pirates
 
 ---
+<!-- .slide: <%= bg("unsplash-WJkc3xZjSXw-trees_overhead.jpg") %> -->
 He said to me, “My **grace** is sufficient for you, <br/>
 for my **power** is made perfect in **weakness**.”
 
