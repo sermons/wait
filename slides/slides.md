@@ -4,9 +4,17 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# How do I deal with **waiting**?
+# How do I **wait** on the Lord?
 
 [###](#/outline "secret")
+
+>>>
++ waiting is not easy
++ for school to let out
++ to grow up, independent from parents
++ for a mate / marriage
++ for God to answer prayer
++ for God's justice to judge wrongs
 
 ---
 [26](# "ref")
