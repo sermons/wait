@@ -75,26 +75,46 @@ they will **walk** and not be faint.
 1. **Wings**  [(v30-31)](# "ref")
 
 ---
-Lift up your eyes and look to the **heavens**: <br/>
+Lift up your **eyes** and look to the **heavens**: <br/>
 Who **created** all these?
-
-He who brings out the **starry host** one by one <br/>
-and **calls forth** each of them by name.
-
-Because of his great **power** and mighty strength,  <br/>
-not one of them is missing.
 
 [Isaiah 40:26 (NIV)](# "ref")
 
 >>>
-Ps19 (devo)
++ creation points to **creator**
++ **science** is Godly:
++ Kepler: merely thinking God's thoughts after Him
++ Ps19 (devo):
+
+---
+The **heavens** declare the **glory** of God; <br/>
+the **skies** proclaim the **work** of His hands.
+
+[Psalm 19:1 (NIV)](# "ref")
+
+>>>
++ **speech** of the skies
+
+---
+He who brings out the **starry host** one by one <br/>
+and **calls forth** each of them by name.
+
+Because of his great **power** and mighty strength,  <br/>
+not one of them is **missing**.
+
+[Isaiah 40:26 (NIV)](# "ref")
+
+>>>
++ calls by **name**: indiv **care**
++ none **missing**: cf sheep
++ &rArr; **character** of God
 
 ---
 <!-- .slide: data-background="white" -->
-# What do the **stars** teach me about God?
+# What does the **sky** teach me about God?
 
 >>>
-+ science, created world
++ science, created world &rArr; **Creator**
 + **power** + strength
 + personal **care**: by name, none missing
 
@@ -115,9 +135,18 @@ my cause is **disregarded** by my God”?
 
 [Isaiah 40:27 (NIV)](# "ref")
 
+>>>
++ **way**: road, journey of life
+  + **cause**: (plea for) justice
++ **hidden**: concealed, unnoticed
+  + **disregard**: passes through/over
+
 ---
 <!-- .slide: data-background="white" -->
 # Have I ever felt **ignored** by God?
+
+>>>
++ unanswered **prayer**
 
 ---
 <!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
@@ -135,6 +164,29 @@ the **Creator** of the ends of the earth.
 
 [Isaiah 40:28 (NIV)](# "ref")
 
+>>>
++ If God does not **hear** my prayer,
++ not because He is too **weak**:
+
+---
+Surely the **arm** of the LORD <br/>
+is not too **short** to save, <br/>
+nor His **ear** too **dull** to hear.
+
+But your **iniquities** have <br/>
+**separated** you from your God;
+
+your **sins** have **hidden** <br/>
+His face from you.
+
+[Isaiah 59:1-2 (NIV)](# "ref")
+
+>>>
++ not God's **fault** for not answering
++ but my own **sin**
++ as I **repent**
++ God has abundant **strength** to give:
+
 ---
 He will not grow **tired** or weary,  <br/>
 and his **understanding** no one can fathom.
@@ -145,6 +197,12 @@ and increases the **power** of the weak.
 
 [Isaiah 40:28-29 (NIV)](# "ref")
 
+>>>
++ **strength** for the weary
++ **wisdom** for those lacking
+  + seems **foolish** to the world
+  + but is **wiser** than world's wisdom
+
 ---
 Oh, the depth of the **riches** <br/>
 of the **wisdom** and knowledge of God!
@@ -152,19 +210,28 @@ of the **wisdom** and knowledge of God!
 How **unsearchable** his judgments, <br/>
 and his paths beyond **tracing** out!
 
-[34](# "ref")
-“Who has known the **mind** of the Lord? <br/>
-Or who has been his **counselor**?”
-
-[36](# "ref")
+[...] [36](# "ref")
 For **from** him and **through** him <br/>
 and **for** him are all things.
 
-[Romans 11:33-34,36 (NIV)](# "ref")
+[Romans 11:33,36 (NIV)](# "ref")
+
+>>>
++ (v32): God's plan of **salvation**:
++ bound all to **disobedience**
+  + that may have **mercy** on all
 
 ---
 <!-- .slide: data-background="white" -->
 # Have I **questioned** God's judgment?
+
+>>>
++ grand **equaliser**:
+  + churched/non-churched, family Chr/non
+  + CAN/TW/other
+  + rich/poor, edu/not
++ all are enslaved to **sin**
++ God extends **mercy** to all
 
 ---
 <!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
@@ -212,6 +279,10 @@ of the world to shame the **strong** [...],
 so that **no one** may **boast** before him.
 
 [1 Corinthians 1:27,29 (NIV)](# "ref")
+
+>>>
++ world thinks us **fools** for Christ
++ e.g., software co: honest vs pirates
 
 ---
 He said to me, “My **grace** is sufficient for you, <br/>
