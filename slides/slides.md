@@ -86,8 +86,9 @@ they will **walk** and not be faint.
 >>>
 + eyes up: creation &rArr; creator
 + heart humble: God hears
-+ mind obedient: God's wisdom
-+ wings open: soar in God's grace, own weakness
++ mind obedient: God's justice
++ wings open: soar in God's grace
+  + boast in own weakness
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
@@ -111,6 +112,9 @@ the **skies** proclaim the **work** of His hands.
 
 >>>
 + **speech** of the skies
++ **declare**: for purpose of being known
+  + skies want to **tell** us:
+  + are we **listening**?
 
 ---
 <!-- .slide: <%= bg("eso9845d-spiral_galaxy_NGC1232.jpg") %> -->
@@ -144,6 +148,12 @@ not one of them is **missing**.
 1. **Heart**  [(v27)](# "ref")
 1. Mind [(v28-29)](# "ref")
 1. Wings  [(v30-31)](# "ref")
+
+>>>
++ humble **perspective**
+  + God **cares** for the stars
++ **heart** humble:
+  + trust God cares for **me**
 
 ---
 <!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
@@ -197,6 +207,12 @@ The God of Jacob takes no **notice**."
 1. Heart  [(v27)](# "ref")
 1. **Mind** [(v28-29)](# "ref")
 1. Wings  [(v30-31)](# "ref")
+
+>>>
++ eyes up: creation &rArr; **might** + **care**
++ heart humble: God **hears** us
++ mind **obedient**:
+  + submit to God's **justice**
 
 ---
 <!-- .slide: <%= bg("unsplash-NuE8Nu3otjo-aurora.jpg") %> -->
@@ -301,6 +317,13 @@ and **for** him are all things.
 1. Heart  [(v27)](# "ref")
 1. Mind [(v28-29)](# "ref")
 1. **Wings**  [(v30-31)](# "ref")
+
+>>>
++ eyes up: creation &rArr; creator
++ heart humble: God hears
++ mind obedient: God's justice
++ wings open: soar in God's grace
+  + boast in own weakness
 
 ---
 <!-- .slide: <%= bg("unsplash-8TJbrQGKFyU-hiking.jpg") %> -->
