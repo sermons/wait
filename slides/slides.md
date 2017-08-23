@@ -144,13 +144,35 @@ my cause is **disregarded** by my God”?
   + **cause**: (plea for) justice
 + **hidden**: concealed, unnoticed
   + **disregard**: passes through/over
++ feel **ignored** &rArr; assume God doesn't **see**
+  + &rArr; **oppress** others:
+
+---
+<!-- .slide: <%= bg("pixabay-852423-homeless.jpg") %> -->
+They pour out **arrogant** words; [...] <br/>
+They slay the **widow** and the **foreigner**; <br/>
+they murder the **fatherless**.
+
+They say, "The LORD does not **see**; <br/>
+The God of Jacob takes no **notice**."
+
+[Psalm 94:4-7 (NIV)](# "ref")
+
+>>>
++ doubt God's **power** or **love**:
++ either God is **unable** to see,
+  + or He doesn't **care**
++ oppress the **powerless**:
+  + widow, alien, orphan
 
 ---
 <!-- .slide: data-background="white" -->
 # Have I ever felt **ignored** by God?
 
 >>>
-+ unanswered **prayer**
++ long-term unanswered **prayer**
++ how does it affect my **heart**?
+  + **faith** / trust in God?
 
 ---
 <!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
@@ -170,8 +192,24 @@ the **Creator** of the ends of the earth.
 [Isaiah 40:28 (NIV)](# "ref")
 
 >>>
-+ If God does not **hear** my prayer,
-+ not because He is too **weak**:
++ If God does not **answer** my prayer,
++ not because He doesn't **hear**:
+
+---
+<!-- .slide: <%= bg("human-ear-1462020301zmM.jpg") %> -->
+Does He who fashioned the **ear** not hear? <br/>
+Does He who formed the **eye** not see?
+
+Does He who **disciplines** nations <br/>
+not **punish**? <br/>
+Does He who **teaches** mankind <br/>
+lack **knowledge**?
+
+[Psalm 94:9-10 (NIV)](# "ref")
+
+>>>
++ authority as **Creator**
++ awareness, judgment, wisdom
 
 ---
 <!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
