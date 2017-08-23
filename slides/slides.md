@@ -303,9 +303,9 @@ and young men **stumble** and fall;
 
 >>>
 + trusting in own strength
-+ youth is fleeting ("invincible")
++ youth is fleeting
 + **stumble**: unexpected tragedy
-  + e.g., mugged in Chinatown
+  + no way to **prepare** for all events
 
 ---
 <!-- .slide: <%= bg("unsplash-OjE4RtaibFc-eagle.jpg") %> -->
