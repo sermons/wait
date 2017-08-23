@@ -75,6 +75,12 @@ they will **walk** and not be faint.
 1. **Mind** [(v28-29)](# "ref")
 1. **Wings**  [(v30-31)](# "ref")
 
+>>>
++ eyes up: creation &rArr; creator
++ heart humble: God hears
++ mind obedient: God's wisdom
++ wings open: soar in God's grace, own weakness
+
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 Lift up your **eyes** and look to the **heavens**: <br/>
