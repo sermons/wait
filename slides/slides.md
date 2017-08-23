@@ -16,7 +16,8 @@ Who **created** all these?
 He who brings out the **starry host** one by one <br/>
 and **calls forth** each of them by name.
 
-Because of his great **power** and mighty strength,  <br/>
+Because of his great **power** <br/>
+and mighty strength, <br/>
 not one of them is missing.
 
 [Isaiah 40:26 (NIV) (p.1/5)](# "ref")
@@ -102,7 +103,8 @@ the **skies** proclaim the **work** of His hands.
 He who brings out the **starry host** one by one <br/>
 and **calls forth** each of them by name.
 
-Because of his great **power** and mighty strength,  <br/>
+Because of his great **power** <br/>
+and mighty strength,  <br/>
 not one of them is **missing**.
 
 [Isaiah 40:26 (NIV)](# "ref")
@@ -218,8 +220,7 @@ is not too **short** to save, <br/>
 nor His **ear** too **dull** to hear.
 
 But your **iniquities** have <br/>
-**separated** you from your God;
-
+**separated** you from your God; <br/>
 your **sins** have **hidden** <br/>
 His face from you.
 
@@ -288,6 +289,7 @@ and **for** him are all things.
 1. **Wings**  [(v30-31)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-8TJbrQGKFyU-hiking.jpg") %> -->
 Even **youths** grow tired and weary, <br/>
 and young men **stumble** and fall;
 
@@ -311,6 +313,7 @@ they will **walk** and not be faint.
 [Isaiah 40:31 (NIV)](# "ref")
 
 >>>
++ **hope**: wait, eager expectation
 + soar, not **flap**
 + boast in own **weakness**
   + that God's **power** may be known
@@ -347,7 +350,18 @@ so that **Christ’s power** may rest on me.
 ---
 <!-- .slide: data-background="white" -->
 # Do I **flap** in my own strength
-# or **soar** in God's grace?
+# or **soar** in <br/> God's grace?
+
+---
+<!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
+but those who **hope** in the Lord <br/>
+will **renew** their strength.
+
+They will **soar** on wings like eagles;  <br/>
+they will **run** and not grow weary, <br/>
+they will **walk** and not be faint.
+
+[Isaiah 40:31 (NIV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> class="empty" -->
