@@ -38,7 +38,7 @@ Why do you say, Israel,
 “My way is **hidden** from the Lord; <br/>
 my cause is **disregarded** by my God”?
 
-[Isaiah 40:27 (NIV) (p.1/5)](# "ref")
+[Isaiah 40:27 (NIV) (p.2/5)](# "ref")
 
 ---
 [28](# "ref")
@@ -51,7 +51,7 @@ the **Creator** of the ends of the earth.
 He will not grow **tired** or weary,  <br/>
 and his **understanding** no one can fathom.
 
-[Isaiah 40:28 (NIV) (p.1/5)](# "ref")
+[Isaiah 40:28 (NIV) (p.3/5)](# "ref")
 
 ---
 [29](# "ref")
@@ -62,7 +62,7 @@ and increases the **power** of the weak.
 Even **youths** grow tired and weary, <br/>
 and young men **stumble** and fall;
 
-[Isaiah 40:29-30 (NIV) (p.1/5)](# "ref")
+[Isaiah 40:29-30 (NIV) (p.4/5)](# "ref")
 
 ---
 [31](# "ref")
@@ -73,7 +73,7 @@ They will **soar** on wings like eagles;  <br/>
 they will **run** and not grow weary, <br/>
 they will **walk** and not be faint.
 
-[Isaiah 40:31 (NIV) (p.1/5)](# "ref")
+[Isaiah 40:31 (NIV) (p.5/5)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> id="outline" -->
