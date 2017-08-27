@@ -326,7 +326,7 @@ and **for** him are all things.
   + boast in own weakness
 
 ---
-<!-- .slide: <%= bg("unsplash-8TJbrQGKFyU-hiking.jpg") %> -->
+<!-- .s: <%= bg("unsplash-8TJbrQGKFyU-hiking.jpg") %> -->
 Even **youths** grow tired and weary, <br/>
 and young men **stumble** and fall;
 
