@@ -20,14 +20,10 @@ module.exports = (grunt) ->
       qr:
         src: 'https://zxing.org/w/chart?cht=qr&chs=350x350&chld=M&choe=UTF-8&chl=https%3A%2F%2F<%= pkg.config.pretty_url %>'
         dest: 'static/img/<%= pkg.shortname %>-qr.png'
-      phantom:
-        src: 'https://github.com/astefanutti/decktape/releases/download/v1.0.0/phantomjs-linux-x86-64'
-        dest: 'phantomjs'
 
     exec:
-      phantom: 'chmod +x phantomjs'
-      print: './phantomjs --debug=true decktape/decktape.js -s 1024x768 --load-pause=10000 reveal "http://localhost:9000/" static/<%= pkg.shortname %>.pdf'
-      thumbnail: './phantomjs decktape/decktape.js -s 1024x768 --screenshots --screenshots-directory . --slides 1 reveal "http://localhost:9000/" static/img/thumbnail.jpg'
+      print: 'decktape -s 1024x768 --load-pause=2000 reveal "http://localhost:9000/" static/<%= pkg.shortname %>.pdf; true'
+      thumbnail: 'decktape -s 1024x768 --screenshots --screenshots-directory . --slides 1 reveal "http://localhost:9000/" static/img/thumbnail.jpg; true'
 
     copy:
       index:
@@ -65,12 +61,6 @@ module.exports = (grunt) ->
           remote: 'git@github.com:<%= pkg.repository %>'
           branch: 'gh-pages'
 
-    gitclone:
-      decktape:
-        options:
-          repository: 'https://github.com/astefanutti/decktape'
-          depth: 1
-
   # Generated grunt vars
   grunt.config.merge
     pkg:
@@ -106,9 +96,6 @@ module.exports = (grunt) ->
 
   grunt.registerTask 'install',
     '*Install* dependencies', [
-      'curl:phantom'
-      'exec:phantom'
-      'gitclone:decktape'
     ]
 
   grunt.registerTask 'pdf',
