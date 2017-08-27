@@ -215,7 +215,7 @@ The God of Jacob takes no **notice**."
   + submit to God's **justice**
 
 ---
-<!-- .s: <%= bg("unsplash-NuE8Nu3otjo-aurora.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-NuE8Nu3otjo-aurora.jpg") %> -->
 Do you not know?  Have you not heard?
 
 The Lord is the **everlasting** God, <br/>
@@ -326,7 +326,7 @@ and **for** him are all things.
   + boast in own weakness
 
 ---
-<!-- .s: <%= bg("unsplash-8TJbrQGKFyU-hiking.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-8TJbrQGKFyU-hiking.jpg") %> -->
 Even **youths** grow tired and weary, <br/>
 and young men **stumble** and fall;
 
