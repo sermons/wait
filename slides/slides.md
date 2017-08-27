@@ -215,7 +215,7 @@ The God of Jacob takes no **notice**."
   + submit to God's **justice**
 
 ---
-<!-- .slide: <%= bg("unsplash-NuE8Nu3otjo-aurora.jpg") %> -->
+<!-- .s: <%= bg("unsplash-NuE8Nu3otjo-aurora.jpg") %> -->
 Do you not know?  Have you not heard?
 
 The Lord is the **everlasting** God, <br/>
